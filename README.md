@@ -255,6 +255,7 @@ nmap --script http-default-accounts target.com
 | ffuf | Fuzzing | [github.com/ffuf](https://github.com/ffuf/ffuf) |
 | jwt_tool | JWT testing | [github.com/jwt_tool](https://github.com/ticarpi/jwt_tool) |
 | Hydra | Brute force | [github.com/hydra](https://github.com/vanhauser-thc/thc-hydra) |
+| **OSINT Framework** | **OSINT tool collection** | [osintframework.com](https://osintframework.com) |
 
 ---
 
