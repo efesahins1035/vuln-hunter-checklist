@@ -258,7 +258,7 @@ nmap --script http-default-accounts target.com
 
 ---
 
-**Made with ❤️ by [Efe Şahin](https://github.com/efesahins1035) & Atlas-01**
+**Made with joy by [Efe Şahin](https://github.com/efesahins1035) & Atlas-01**
 
 *For educational purposes only. Always get permission before testing!*
 
