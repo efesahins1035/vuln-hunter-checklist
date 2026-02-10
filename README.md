@@ -38,6 +38,7 @@ Bu checklist:
 - [File Upload](./web/file-upload.md) - Extension Bypass, Magic Bytes
 - [XSS](./web/xss.md) - Reflected, Stored, DOM-based
 - [SQL Injection](./web/sqli.md) - Union, Blind, Error-based
+- [XXE](./web/xxe.md) - XML External Entity Injection
 - [SSRF](./web/ssrf.md) - Server-Side Request Forgery
 - [LFI/RFI](./web/lfi-rfi.md) - Local/Remote File Inclusion
 
@@ -88,6 +89,7 @@ This checklist:
 - [File Upload](./web/file-upload.md) - Extension Bypass, Magic Bytes
 - [XSS](./web/xss.md) - Reflected, Stored, DOM-based
 - [SQL Injection](./web/sqli.md) - Union, Blind, Error-based
+- [XXE](./web/xxe.md) - XML External Entity Injection
 - [SSRF](./web/ssrf.md) - Server-Side Request Forgery
 - [LFI/RFI](./web/lfi-rfi.md) - Local/Remote File Inclusion
 
